@@ -1,0 +1,12 @@
+.main {
+  background: #22092c;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Button {
+  margin: 5px;
+}
